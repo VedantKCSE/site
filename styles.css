@@ -11,7 +11,11 @@ nav {
     font-family: consolas;
     align-items: center;
     font-size: x-large;
+    display: block;
     border: 4px solid rgb(255, 100, 0);
+}
+.navbar a:hover {
+background-color: rgb(58, 58, 58);
 }
 nav a {
     text-decoration: none;
