@@ -35,7 +35,7 @@ section {
     text-align: center;
     color: #313131;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 90px;
     -webkit-animation: colorchange 20s infinite alternate;
   }
   
@@ -73,4 +73,7 @@ section {
     100% {
       color: pink;
     }
+  }
+  h1 {
+      font-size: 40px;
   }
