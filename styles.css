@@ -1,8 +1,9 @@
 header{
     color: rgb(0, 0, 0);
-    background-color: rgb(255, 136, 0);
+    background-image: url(../../Archives/Media/Zephyrus\ G14_1920x1080.jpg);
     padding: 40px;
     font-size: x-large;
+    border: 4px solid rgb(0,255,255);
 }
 nav {
     background-color: rgb(0, 0, 0);
@@ -10,13 +11,17 @@ nav {
     font-family: consolas;
     align-items: center;
     font-size: large;
+    border: 4px solid rgb(0,255,255);
 }
 nav a {
     text-decoration: none;
-    padding: 20px;
+    padding:30px;
     text-align: center;
     float: center;
     color: white;
     margin-left: auto;
     margin-right: auto;
+}
+section {
+    border: 5px solid rgb(0,255,255)
 }
